@@ -7,3 +7,4 @@
      Creating a new branch is quik.
      Creating a second branch is quik too.
      Creating a third branch is fast too.
+     Creating to a test for add merge too.
