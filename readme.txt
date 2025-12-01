@@ -7,4 +7,5 @@
      Creating a new branch is quik.
      Creating a second branch is quik too.
      Creating a third branch is fast too.
-     Creating a new branch is quick & simple.
+     Creating a new branch is quick AND smple.
+>>>>>>> feature1
